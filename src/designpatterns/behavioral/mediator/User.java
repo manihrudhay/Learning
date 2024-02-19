@@ -1,4 +1,4 @@
-package designpatterns.behavioral.Mediator;
+package designpatterns.behavioral.mediator;
 
 class User {
     private ChatMediator mediator;

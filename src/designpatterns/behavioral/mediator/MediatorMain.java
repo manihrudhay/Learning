@@ -1,4 +1,4 @@
-package designpatterns.behavioral.Mediator;
+package designpatterns.behavioral.mediator;
 
 public class MediatorMain {
     public static void main(String[] args) {
