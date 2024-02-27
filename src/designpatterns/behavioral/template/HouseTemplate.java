@@ -1,4 +1,4 @@
-package designpatterns.behavioral.Template;
+package designpatterns.behavioral.template;
 
 abstract class HouseTemplate {
 

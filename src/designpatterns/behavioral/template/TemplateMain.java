@@ -1,4 +1,4 @@
-package designpatterns.behavioral.Template;
+package designpatterns.behavioral.template;
 
 public class TemplateMain {
     public static void main(String[] args) {

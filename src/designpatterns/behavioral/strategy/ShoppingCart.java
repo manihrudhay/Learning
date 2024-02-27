@@ -1,4 +1,4 @@
-package designpatterns.behavioral.Strategy;
+package designpatterns.behavioral.strategy;
 
 // Context class that uses the PaymentStrategy
 class ShoppingCart {

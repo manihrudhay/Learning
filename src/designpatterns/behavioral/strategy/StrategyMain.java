@@ -1,4 +1,4 @@
-package designpatterns.behavioral.Strategy;
+package designpatterns.behavioral.strategy;
 
 
 public class StrategyMain {

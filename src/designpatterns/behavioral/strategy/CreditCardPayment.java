@@ -1,4 +1,4 @@
-package designpatterns.behavioral.Strategy;
+package designpatterns.behavioral.strategy;
 
 // Concrete implementation of a payment strategy: Credit Card
 class CreditCardPayment implements PaymentStrategy {
