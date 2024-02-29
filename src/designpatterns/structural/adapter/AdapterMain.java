@@ -1,4 +1,4 @@
-package designpatterns.structural;
+package designpatterns.structural.adapter;
 
 // Example Usage
 public class AdapterMain {

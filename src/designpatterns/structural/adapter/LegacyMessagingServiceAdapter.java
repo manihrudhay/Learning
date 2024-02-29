@@ -1,4 +1,4 @@
-package designpatterns.structural;
+package designpatterns.structural.adapter;
 
 // LegacyMessagingServiceAdapter (Adapter)
 class LegacyMessagingServiceAdapter implements NewMessagingService {

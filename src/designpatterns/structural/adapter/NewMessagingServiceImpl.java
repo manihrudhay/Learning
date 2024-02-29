@@ -1,4 +1,4 @@
-package designpatterns.structural;
+package designpatterns.structural.adapter;
 
 // Concrete implementation of NewMessagingService
 class NewMessagingServiceImpl implements NewMessagingService {
